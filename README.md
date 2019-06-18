@@ -1,4 +1,4 @@
-[firebase_ios.png]
+![alt text](https://github.com/joeavargas/RNDM/blob/master/demo/firebase_ios.png "Firebase + iOS")
 
 # RNDM
 
