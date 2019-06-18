@@ -1,0 +1,6 @@
+framework module Pods_RNDM {
+  umbrella header "Pods-RNDM-umbrella.h"
+
+  export *
+  module * { export * }
+}

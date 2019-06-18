@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641216293080-tsudv7afrucb3pmrpqekgjkte765vq9q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641216293080-tsudv7afrucb3pmrpqekgjkte765vq9q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT4tpxM2KBaeWeErEfUNB5Pa9hsm0ng9k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641216293080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Joe-Vargas.RNDM</string>
+	<key>PROJECT_ID</key>
+	<string>rndm-571cf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rndm-571cf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641216293080:ios:f053da6bb6079367</string>
+	<key>DATABASE_URL</key>
+	<string>https://rndm-571cf.firebaseio.com</string>
+</dict>
+</plist>
