@@ -173,3 +173,10 @@ self.firestore.runTransaction({ (transaction, error) -> Any? in
 I discussed about user uid and document uids and how they work together using code logic to allow users to interact with documents based on their uid and document uid. Below is a snippet of the Firestore database security rules along with annotations to explain their purpose:
 
 ![alt text](https://github.com/joeavargas/RNDM/blob/master/demo/firestore-sec-rules.png "Add Thought View Controller")
+
+# RNDM Walkthrough on YouTube
+See RNDM in action by clicking the YouTube link below. Thanks for watching!
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w5OsqfEkD-U" target="_blank">
+ <img src="http://img.youtube.com/vi/w5OsqfEkD-U/0.jpg" target="_blank" alt="RNDM" width="720" height="540" border="10" />
+</a>
